@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Temp converter</string>
+    <string name="hello">Hello temperatureconverter!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_info">Info</string>
+    <string name="info">Maven-based demo app for the DevoxxUK 2014 \'ANDROID APPLICATION DEVELOPMENT: BETTER, FASTER, STRONGER!\' hands-on lab</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="celsius">Celsius</string>
+    <string name="convert">Convert!</string>
+
+</resources>
